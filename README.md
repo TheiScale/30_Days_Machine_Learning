@@ -1,1 +1,1 @@
-# 30_Days_ML | By Nishant Sir | TheiScale 
+# 30_Days_ML | By Nishant Sir | TheiScale.Com
